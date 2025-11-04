@@ -7,4 +7,5 @@ This repository demonstrates my cybersecurity home lab projects, which are a col
 
 
 ### 1 Cybersecurity Tools
-- [Command Line and Security Basics](linux_basics/Linux%20CL%20and%20Security%20Basics.md)
+- [Command Line and Security Basics](linux_basics/Linux%20CL%20and%20Security%20Basics.pdf)
+- [Environment Variables & Set-Uid](env_variables/Environment%20Variables%20and%20Set-Uid%20Programs.pdf)
